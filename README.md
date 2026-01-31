@@ -5,7 +5,7 @@
  📌 Notes
 - This project is created for learning and practice purposes
 - No external libraries or frameworks are used
-- Code is written and understood during practice (with learning assistance)
+- Code is written and understood during practice 
 
  📬 Contact
 - **Email:** dtharun.official@gmail.com  
